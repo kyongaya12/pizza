@@ -7,10 +7,10 @@ function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
-        <h1>hello welcome </h1>
-        <p> how r u </p>
+        <h1>wonderful day </h1>
+        <p> Holy Sprit lead </p>
         <Link to="/menu">
-          <button> in the morning </button>
+          <button> Hallelujah</button>
         </Link>
       </div>
     </div>
